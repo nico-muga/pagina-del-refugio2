@@ -1,0 +1,6 @@
+{
+  "name": "Refugio Gastropub",
+  "description": "Un refugio gastronómico en Roldán donde la calidez del hogar se fusiona con la cocina de autor. Menú digital, reservas y experiencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
